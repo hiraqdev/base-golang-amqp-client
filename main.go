@@ -46,7 +46,7 @@ func main() {
 				logger.Info("Start to listening queues...")
 
 				logger.Info(conn) // you can remove this log
-				// setup your setup here
+				// setup your channel / routing / queue here
 			}
 		}
 	}()
